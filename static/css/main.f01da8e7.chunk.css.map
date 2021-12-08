@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,EACE,sCAAyC,CAC1C,MAGC,qBAAuB,CACvB,kBAAmB,CACnB,YAAa,CACd,aAGC,aAAc","file":"main.f01da8e7.chunk.css","sourcesContent":["* {\n  font-family: Arial, Helvetica, sans-serif;\n}\n\n.post {\n  border: 1px solid black;\n  border-radius: 10px;\n  padding: 10px;\n}\n\n.commentInfo {\n  margin: 10px 0;\n}\n"]}
